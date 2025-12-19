@@ -41,6 +41,6 @@
 </p>
 -->
 <p align="center">
-  <a href="https://linkedin.com/in/sanidhya-kumar-ghosal">LinkedIn</a> • 
-  <a href="mailto:your-email@example.com">Contact</a>
+  <a href="https://www.linkedin.com/in/sanidhya-kumar-ghosal-8b5179251/">LinkedIn</a> • 
+  <a href="mailto:sanidhyakumarghosal@gmail.com">Contact</a>
 </p>

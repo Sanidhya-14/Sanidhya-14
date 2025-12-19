@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🛰️ Sanidhya Kumar Ghosal
 
-<!--
-**Sanidhya-14/Sanidhya-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://capsule-render.vercel.app/render?type=waving&color=2e8b57&height=220&section=header&text=AI%20for%20Precision%20Agriculture&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20Researcher%20%7C%20IIT%20Ropar%20Alum&descAlignY=55&descSize=20)
 
-Here are some ideas to get you started:
+### 📡 Mission Control: Active
+[cite_start]**IT Undergraduate** specializing in **AI & Computer Vision** for **Autonomous Systems**[cite: 4, 5].
+* [cite_start]🌱 **Project Associate @ IIT Ropar:** Developed India's first AI pest prediction system (86-97% accuracy)[cite: 7, 9].
+* [cite_start]🛰️ **First Author (CVIP 2025):** Created **FLNet** (Super-Resolution) to analyze flood damage on farms[cite: 33, 34].
+* [cite_start]🚜 **Google Solution Challenge Finalist:** Built an AI Career Guidance Platform using Vertex AI[cite: 27, 54].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Payload
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **🛰️ Remote Sensing** | [cite_start]Sentinel-2 Imagery, YOLO, EDSR (Super-Resolution), UNET [cite: 17, 18, 45] |
+| **🌾 Agri-Tech** | [cite_start]Random Forest (Gatekeeper Model), Time-Series Analysis, NumPy [cite: 10, 45] |
+| **💻 Dev Stack** | [cite_start]React.js, Supabase, Linux, Git, Vertex AI [cite: 45] |
+
+---
+
+### 🐍 Contribution Ecology (The Game)
+<p align="center">
+  <img src="https://github.com/Sanidhya-14/Sanidhya-14/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</p>
+
+---
+
+### 📊 Satellite Telemetry (Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya-14&show_icons=true&theme=forest&rank_icon=github&border_radius=10" alt="Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya-14&layout=compact&theme=forest&border_radius=10" alt="Languages" height="160" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanidhya-kumar-ghosal">LinkedIn</a> • 
+  <a href="mailto:your-email@example.com">Contact</a>
+</p>

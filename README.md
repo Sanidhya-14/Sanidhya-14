@@ -1,6 +1,6 @@
 # 🛰️ Sanidhya Kumar Ghosal
 
-![Header](https://capsule-render.vercel.app/render?type=waving&color=2e8b57&height=220&section=header&text=AI%20for%20Precision%20Agriculture&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20Researcher%20%7C%20IIT%20Ropar%20Alum&descAlignY=55&descSize=20)
+<!--![Header](https://capsule-render.vercel.app/render?type=waving&color=2e8b57&height=220&section=header&text=AI%20for%20Precision%20Agriculture&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20Researcher%20%7C%20IIT%20Ropar%20Alum&descAlignY=55&descSize=20) -->
 
 ### 📡 Mission Control: Active
 **IT Undergraduate** specializing in **AI & Computer Vision** for **Autonomous Systems**.
@@ -27,7 +27,7 @@
 
 ---
 
-### 🐍 Contribution Ecology (The Game)
+<!--### 🐍 Contribution Ecology (The Game)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sanidhya-14/Sanidhya-14/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya-14&show_icons=true&theme=forest&rank_icon=github&border_radius=10" alt="Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya-14&layout=compact&theme=forest&border_radius=10" alt="Languages" height="160" />
 </p>
-
+-->
 <p align="center">
   <a href="https://linkedin.com/in/sanidhya-kumar-ghosal">LinkedIn</a> • 
   <a href="mailto:your-email@example.com">Contact</a>

@@ -4,9 +4,9 @@
 
 ### 📡 Mission Control: Active
 **IT Undergraduate** specializing in **AI & Computer Vision** for **Autonomous Systems**.
-* 🌱 **Project Associate @ IIT Ropar:** Developed India's first AI pest prediction system (86-97% accuracy).
-* 🛰️ **First Author (CVIP 2025):** Created **FLNet** (Super-Resolution) to analyze flood damage on farms.
-* 🚜 **Google Solution Challenge Finalist:** Built an AI Career Guidance Platform using Vertex AI.
+* 🌱 **Project Associate @ IIT Ropar:** Developed AI-powered Weather-pest prediction system (86-97% accuracy).
+* 🛰️ **First Author (CVIP 2025):** Created **FLNet** (Super-Resolution) to analyze flood damage on farms, using low-resolution satellite data.
+* 🚜 **Google Solution Challenge Finalist:** Built an AI Career Guidance Platform, for underpriviledged students using Vertex AI.
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **🛰️ Remote Sensing** | Sentinel-2 Imagery, YOLO, EDSR (Super-Resolution), UNET |
+| **🛰️ Remote Sensing** | Sentinel-2 Imagery, PanetScope Imagery, YOLO, EDSR (Super-Resolution), UNET |
 | **🌾 Agri-Tech** | Random Forest (Gatekeeper Model), Time-Series Analysis, NumPy |
 | **💻 Dev Stack** | React.js, Supabase, Linux, Git, Vertex AI |
 

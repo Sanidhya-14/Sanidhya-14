@@ -3,10 +3,10 @@
 ![Header](https://capsule-render.vercel.app/render?type=waving&color=2e8b57&height=220&section=header&text=AI%20for%20Precision%20Agriculture&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20Researcher%20%7C%20IIT%20Ropar%20Alum&descAlignY=55&descSize=20)
 
 ### 📡 Mission Control: Active
-[cite_start]**IT Undergraduate** specializing in **AI & Computer Vision** for **Autonomous Systems**[cite: 4, 5].
-* [cite_start]🌱 **Project Associate @ IIT Ropar:** Developed India's first AI pest prediction system (86-97% accuracy)[cite: 7, 9].
-* [cite_start]🛰️ **First Author (CVIP 2025):** Created **FLNet** (Super-Resolution) to analyze flood damage on farms[cite: 33, 34].
-* [cite_start]🚜 **Google Solution Challenge Finalist:** Built an AI Career Guidance Platform using Vertex AI[cite: 27, 54].
+**IT Undergraduate** specializing in **AI & Computer Vision** for **Autonomous Systems**.
+* 🌱 **Project Associate @ IIT Ropar:** Developed India's first AI pest prediction system (86-97% accuracy).
+* 🛰️ **First Author (CVIP 2025):** Created **FLNet** (Super-Resolution) to analyze flood damage on farms.
+* 🚜 **Google Solution Challenge Finalist:** Built an AI Career Guidance Platform using Vertex AI.
 
 ---
 
@@ -22,15 +22,15 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **🛰️ Remote Sensing** | [cite_start]Sentinel-2 Imagery, YOLO, EDSR (Super-Resolution), UNET [cite: 17, 18, 45] |
-| **🌾 Agri-Tech** | [cite_start]Random Forest (Gatekeeper Model), Time-Series Analysis, NumPy [cite: 10, 45] |
-| **💻 Dev Stack** | [cite_start]React.js, Supabase, Linux, Git, Vertex AI [cite: 45] |
+| **🛰️ Remote Sensing** | Sentinel-2 Imagery, YOLO, EDSR (Super-Resolution), UNET |
+| **🌾 Agri-Tech** | Random Forest (Gatekeeper Model), Time-Series Analysis, NumPy |
+| **💻 Dev Stack** | React.js, Supabase, Linux, Git, Vertex AI |
 
 ---
 
 ### 🐍 Contribution Ecology (The Game)
 <p align="center">
-  <img src="https://github.com/Sanidhya-14/Sanidhya-14/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sanidhya-14/Sanidhya-14/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 </p>
 
 ---
